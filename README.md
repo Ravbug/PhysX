@@ -1,6 +1,6 @@
 # NVIDIA PhysX SDK 4.1
 
-This repository contains fixes for compiling PhysX 4.1 in Xcode 11 and Visual Studio 2019.
+This repository contains fixes for compiling PhysX 4.1 in Xcode 12 / Clang 10 and Visual Studio 2019.
 
 ## Original text:
 
